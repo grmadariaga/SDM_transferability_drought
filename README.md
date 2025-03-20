@@ -1,7 +1,7 @@
 # Macroinvertebrate SDM Transferability to Drought Conditions
 
 ## Overview
-This repository contains scripts and data processing functions for the manuscript "Transferability of stream benthic macroinvertebrate distribution models to drought-related conditions". The provided R scripts facilitate data preparation, model training, evaluation, and analysis. The external files can be found in *** Insert fred link****. The codes must be executed in the correct order indicated by the number on the file name.
+This repository contains scripts and data processing functions for the manuscript "Transferability of stream benthic macroinvertebrate distribution models to drought-related conditions". The provided R scripts facilitate data preparation, model training, evaluation, and analysis. The external files can be found in (https://fred.igb-berlin.de/data/package/977). The codes must be executed in the correct order indicated by the number on the file name.
 
 ## Repository Structure
 
